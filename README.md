@@ -9,6 +9,7 @@ Make sure you have the following tools installed on your machine::
 ## Steps
 
 ### 1. Project Structure
+```
 Organize your project as follows: 
 
 ├── backend/
@@ -20,7 +21,7 @@ Organize your project as follows:
 ├── docker-compose.yml
 └── README.md
 
-
+```
 ### 2. Dockerfile for Frontend (React.js)
 Create a Dockerfile in the frontend folder:
 
