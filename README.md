@@ -104,3 +104,11 @@ Enter the following URL in your browser: http://localhost:3000/
 
 ![Docker compose](docker/8.png)
 ![Docker compose](docker/1.png)
+
+## 6. Results
+![Docker compose](docker/2.png)
+![Docker compose](docker/3.png)
+![Docker compose](docker/4.png)
+![Docker compose](docker/5.png)
+![Docker compose](docker/6.png)
+
